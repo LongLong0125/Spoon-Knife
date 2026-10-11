@@ -14,3 +14,16 @@ This is my first forked repository.
 
 I am learning how to explore,
 download and modify open-source projects.
+
+## GitHub Learning - Lesson 3
+
+I am learning how to use GitHub.
+
+### What I learned
+
+- How to create a Branch
+- How to make a Commit
+- How to create a Pull Request
+- How to merge changes
+
+This is my first branch practice!
